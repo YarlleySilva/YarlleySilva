@@ -13,5 +13,5 @@ Atualmente estou em busca do primeiro emprego na área. Procuro novos desafios q
 
 - :detective: A procura de uma oportunidade na área
 - :man_student: Bacharel em Sistemas de Informação, na FIP
-- :computer: Techs: React.js, React Native, Node.js, Java, .
+- :computer: Techs: React.js, React Native, Node.js, Java...
 - :man_technologist: Sempre adquirindo novos conhecimentos de forma <b>autodidata</b>
