@@ -4,8 +4,10 @@
 
 [![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/yarlleysilva/)[![](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link)](https://github.com/YarlleySilva)
 
+<img align="right" src="https://cdn.lowgif.com/full/f699aae00405d5c9-computer-reaction-faces-gif-6-gif-images-download.gif">
+
 ### Olá Mundo! 👋
- 
+
 Meu nome é Yarlley, sou Desenvolvedor Front-End, e estou sempre em busca de conhecimentos que agreguem em meu desempenho e produtividade. 
 💬 
 
