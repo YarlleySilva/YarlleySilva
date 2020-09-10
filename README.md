@@ -11,9 +11,9 @@
 Meu nome é Yarlley, sou Desenvolvedor Front-End, e estou sempre em busca de conhecimentos que agreguem em meu desempenho e produtividade. 
 💬 
 
-Atualmente estou em busca do primeiro emprego na área. Procuro novos desafios que me possibilitem expandir minhas áreas de conhecimento e colocar em prática. 💬
+Procuro novos desafios que me possibilitem expandir minhas áreas de conhecimento e colocar em prática. 💬
 
-- :detective: A procura de uma oportunidade na área
+- :man_technologist: Front-End Developer Jr at StormX
 - :man_student: Bacharel em Sistemas de Informação, na FIP
 - :computer: Techs: React.js, React Native, Node.js, Java...
 - :man_technologist: Sempre adquirindo novos conhecimentos de forma <b>autodidata</b>
