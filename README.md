@@ -14,7 +14,7 @@
 <p align="left">💬 My name is Yarlley, I'm a Front-End Developer, and I'm always looking for knowledge that adds to my performance and productivity.<br><br>💬 I'm looking for new challenges that allow me to expand my areas of knowledge and put them into practice.</p>
 
 ###
-<p align="left">👨‍💻 Pleno Software Engineer at ACCT Global<br>👨‍🎓 Bachelor of Information Systems<br>👨‍💻 Always acquiring new knowledge<br>💻 Techs: React.js, React Native, Node.js, Java...</p>
+<p align="left">👨‍💻 Pleno Software Engineer at ACCT Global<br>👨‍🎓 Bachelor of Information Systems<br>👨‍💻 Always acquiring new knowledge<br></p>
 
 ###
 <h2 align="left">💻 Techs</h2>
